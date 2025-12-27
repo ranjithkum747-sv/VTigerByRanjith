@@ -6,6 +6,8 @@ public class FirstCommit
 	{
 		System.out.println("Hello");
 		
+		System.out.println("new line after branch");
+		
 	}
 
 }
