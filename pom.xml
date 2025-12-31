@@ -122,7 +122,7 @@
 
           <suiteXmlFiles>
 
-            <suiteXmlFile>Parallelng.xml</suiteXmlFile>
+            <suiteXmlFile>file1.xml</suiteXmlFile>
 
           </suiteXmlFiles>
 
