@@ -1,8 +1,11 @@
 package practicegithub;
 
+import org.testng.annotations.Test;
+
 public class FirstCommit 
 {
-	public static void main(String[] args) 
+	@Test
+	public void firstCommitMethod()
 	{
 		System.out.println("Hello");
 		
